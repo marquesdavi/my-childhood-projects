@@ -1,0 +1,10 @@
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\bin\Debug\XW Download 4.4 Professional.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\bin\Debug\XW Download 4.4 Professional.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\bin\Debug\XW Download 4.4 Professional.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW_Download_4._4_Professional.Form1.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW_Download_4._4_Professional.Resources.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW Download 4.4 Professional.vbproj.GenerateResource.Cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW Download 4.4 Professional.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW Download 4.4 Professional.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Download 4.4 Professional\XW Download 4.4 Professional\obj\Debug\XW Download 4.4 Professional.pdb

@@ -1,0 +1,20 @@
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\bin\Debug\XW Downloads.exe
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\bin\Debug\XW Downloads.pdb
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\bin\Debug\XW Downloads.xml
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW_Downloads.Form1.resources
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW_Downloads.Resources.resources
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW Downloads.vbproj.GenerateResource.Cache
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW Downloads.exe
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW Downloads.xml
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads\obj\Debug\XW Downloads.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW Downloads.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW Downloads.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW Downloads.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\bin\Debug\XW Downloads.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\bin\Debug\XW Downloads.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\bin\Debug\XW Downloads.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW_Downloads.Form1.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW_Downloads.Resources.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads\XW Downloads\obj\Debug\XW Downloads.vbproj.GenerateResource.Cache

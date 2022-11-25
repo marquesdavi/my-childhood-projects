@@ -1,0 +1,10 @@
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\bin\Debug\Sistema de Gestão XW Download.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\bin\Debug\Sistema de Gestão XW Download.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\bin\Debug\Sistema de Gestão XW Download.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema_de_Gestão_XW_Download.Form1.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema_de_Gestão_XW_Download.Resources.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema de Gestão XW Download.vbproj.GenerateResource.Cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema de Gestão XW Download.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema de Gestão XW Download.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\Sistema de Gestão XW Download\Sistema de Gestão XW Download\obj\Debug\Sistema de Gestão XW Download.pdb

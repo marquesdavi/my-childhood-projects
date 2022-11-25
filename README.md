@@ -3,6 +3,12 @@
 <p><strong>Neste repositório estão alguns projetos que fiz quando era pequeno, utilizando
 a linguagem de programação Visual Basic.</strong></p>
 
+Observação: Para acessar o executável (Para Windows) é necessário seguir as seguintes
+pastas Pasta geral do projeto -> Pasta Secundária que fica dentro da principal -> bin
+-> Debug
+
+</hr>
+
 ## ⏳ **Minha história na programação:**
 *<h6> "Uma história para quem quiser rir 😂 (Ou se emocionar... sla)" </h6>*
  

@@ -1,0 +1,17 @@
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\bin\Debug\XW Downloads 3.0 Professional.exe
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\bin\Debug\XW Downloads 3.0 Professional.pdb
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\bin\Debug\XW Downloads 3.0 Professional.xml
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW_Downloads_3._0_Professional.Form1.resources
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW_Downloads_3._0_Professional.Resources.resources
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.vbproj.GenerateResource.Cache
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.exe
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.xml
+C:\Users\Davi\AppData\Local\Temporary Projects\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW_Downloads_3._0_Professional.Form1.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW_Downloads_3._0_Professional.Resources.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW Downloads 3.0 Professional\XW Downloads 3.0 Professional\obj\Debug\XW Downloads 3.0 Professional.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\bin\Debug\XW OS 4.4 Professional.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\bin\Debug\XW OS 4.4 Professional.pdb
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\bin\Debug\XW OS 4.4 Professional.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW_OS_4._4_Professional.Iniciando.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW_OS_4._4_Professional.Resources.resources
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW OS 4.4 Professional.vbproj.GenerateResource.Cache
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW OS 4.4 Professional.exe
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW OS 4.4 Professional.xml
+C:\Users\Davi\OneDrive\XW Browser\XW Browser\XW OS 4.4 Professional\XW OS 4.4 Professional\obj\Debug\XW OS 4.4 Professional.pdb
